@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "615361321691",
+    "project_id": "practica2u3v3",
+    "storage_bucket": "practica2u3v3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615361321691:android:da658cb4a3d78361f88afe",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u3_practica2_base_de_datos_firebase_cloud_firestorev3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615361321691-tp5n01jr9id3lie9rumae7na02g320m6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB12RBr0SsBpTjrzOqSmvjHYVe_jfuFFlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615361321691-tp5n01jr9id3lie9rumae7na02g320m6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
